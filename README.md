@@ -1,3 +1,19 @@
-# curso-platzi-react-avanzado ⚛️
+# Petagram (Frontend)
 
-Repositorio con el código del [Curso Avanzado de React de Platzi](https://platzi.com/cursos/react-avanzado/)
+Created during the Advance React Course from Platzi.
+
+## Setup
+
+`npm run dev` to start the application into `localhost:8080`
+
+## Technologies used:
+
+- `React`
+- `GraphQL`
+- `Apollo`
+- `Now` for deployment
+
+
+## Notes:
+
+First time using GraphQL, Apollo and Now. 
