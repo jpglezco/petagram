@@ -1,7 +1,7 @@
 {
   "version": 2,
-  "name": "Pet-a-book",
-  "alias": ["pet-a-book-api"],
+  "name": "Pentagram",
+  "alias": ["pentagram-api"],
   "builds": [{ "src": "index.js", "use": "@now/node" }],
   "routes": [{
     "headers": {
